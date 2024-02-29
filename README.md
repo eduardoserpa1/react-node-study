@@ -18,7 +18,7 @@ to install all the packages dependencies, on front-end root directory, run:
 ```bash
 npm install
 ```
-after that, to start your aplication (in development mode), run:
+after that, to start your application (in development mode), run:
 ```bash
 npm start
 ```
@@ -30,11 +30,11 @@ like front-end, you have to install all the packages dependencies too, for this,
 ```bash
 npm install
 ```
-and after that, you run the node aplication with nodemon, which provides hot reloading of server changes, so in the Back-end root path, run:
+and after that, you run the node application with nodemon, which provides hot reloading of server changes, so in the Back-end root path, run:
 ```bash
 nodemon App.js
 ```
-with the two aplications running correctly, you should have your API running on _url: **localhost:/8000**_ and your front-end aplication running on _url: **localhost:/3000**_.
+with the two applications running correctly, you should have your API running on _url: **localhost:/8000**_ and your front-end aplication running on _url: **localhost:/3000**_.
 
 
 you can read more react [here](https://react.dev/learn), and also about node [here](https://nodejs.org/en/about)
